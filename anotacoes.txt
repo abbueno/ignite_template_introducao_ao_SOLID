@@ -1,0 +1,24 @@
+dependencies: {
+    express
+    uuid
+  },
+  devDependencies: {
+    yarn add @types/express -D
+    yarn add @types/jest -D
+    yarn add @types/swagger-ui-express -D
+    yarn add @types/uuid -D
+    yarn add @typescript-eslint/eslint-plugin -D
+    yarn add @typescript-eslint/parser -D
+    yarn add eslint -D
+    yarn add eslint-config-airbnb-base -D
+    yarn add eslint-config-prettier -D
+    yarn add eslint-import-resolver-typescript -D
+    yarn add eslint-plugin-import -D
+    yarn add eslint-plugin-import-helpers -D
+    yarn add eslint-plugin-prettier -D
+    yarn add jest -D
+    yarn add prettier -D
+    yarn add supertest -D
+    yarn add ts-jest -D
+    yarn add ts-node-dev -D
+    yarn add typescript -D
